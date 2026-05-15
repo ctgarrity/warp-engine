@@ -1,0 +1,14 @@
+[15:45:37.661] Starting ... 
+[15:45:37.704] VULKAN API: 1.4
+[15:45:37.712] Selected GPU: NVIDIA GeForce RTX 3070
+[15:45:37.712] Driver: 595.284.320
+[15:45:37.712] Vulkan API: 1.4.329
+[15:45:37.797] Enabled device extensions:
+[15:45:37.797]   VK_KHR_swapchain
+[15:45:37.797]   VK_KHR_unified_image_layouts
+[15:45:37.797]   VK_EXT_descriptor_heap
+[15:45:37.797]   VK_KHR_shader_untyped_pointers
+[15:45:37.797]   VK_EXT_shader_object
+[15:45:37.797]   VK_EXT_extended_dynamic_state3
+[15:45:37.797]   VK_EXT_vertex_input_dynamic_state
+[15:45:37.838] Created UI descriptor pool: 128 sets (combined=128, sampler=128, sampledImage=128)
